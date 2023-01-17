@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jasonloic
-- 👀 I’m interested in ... webdevelopment
-- 🌱 I’m currently learning ...Javascript & Php,Python, reacts, Java
-- 💞️ I’m looking to collaborate on ...websites projects
+- 👀 I’m interested in ... webdevelopment, AI
+- 🌱 I’m currently learning ...Javascript & Php,Python, react, Java, C, C++
+- 💞️ I’m looking to collaborate on ...websites, AI, and any other projects
 - 📫 How to reach me ...jasonloicntone@gmail.com
 
 <!---
