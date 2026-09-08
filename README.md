@@ -1,6 +1,6 @@
-<img width="1920" height="1080" alt="Bannière" src="https://github.com/user-attachments/assets/aa9a5681-2071-4688-857b-17d4ec3493a2" />
+<img width="2000" height="2000" alt="banniere-github" src="https://github.com/user-attachments/assets/a9e33c8c-fe04-44bb-834d-1d957ae718b4" />
 
-<h1 align="center">Hi 👋, I'm Irène AMEDJI</h1>
+<h1 align="center">Hi 👋, I'm Jason Ntone</h1>
 
 <h3 align="center">Aspiring Power Platform Developer</h3>
 
